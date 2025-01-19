@@ -87,3 +87,9 @@ Problem: Create two classes Battery and Engine, and let the ElectricCar class in
 </details>
 
 
+<details>
+<summary>
+11. Hybrid Inheritance
+</summary>
+Write a Python program that demonstrates hybrid inheritance by creating a class structure involving vehicles. The program should include a base class Vehicle, two derived classes Car and Boat, and a further derived class AmphibiousVehicle that inherits from both Car and Boat. Each class should have methods to display specific features.
+</details>
